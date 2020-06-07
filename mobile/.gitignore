@@ -9,7 +9,8 @@ npm-debug.*
 *.orig.*
 web-build/
 web-report/
-
+/assets/*
+!assets/.gitkeep
 
 # macOS
 .DS_Store
